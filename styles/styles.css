@@ -127,3 +127,45 @@ main{
 .margin-top{
     margin-top: 100px;
 }
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume-title{
+    text-align: center;
+   margin-top: 80px;
+}
+.exparience-title{
+    margin-top: 50px;
+}
+.descrp{
+    margin-top: 50px;
+    color: #757575;
+}
+.btn{
+   
+    margin-top: 50px;
+    
+}
+.resume{
+    text-align: center;
+}
+.foot{
+    display: flex;
+   gap: 100px;
+   margin-top: 80px;
+   
+}
+
+input[type="text"] , input[type="email"] , textarea{
+    height: 65px;
+    border-radius: 5px;
+    background-color: beige;
+    color: #474747;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 24px;
+    border: none;
+}
